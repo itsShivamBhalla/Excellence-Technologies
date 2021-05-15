@@ -1,0 +1,9 @@
+.round
+{
+    border-radius: 25px;
+    border: 5px solid black;
+    background-color: red;
+    padding: 5px;
+    box-sizing: box;
+    display: table;
+}
