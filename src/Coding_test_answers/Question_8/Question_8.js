@@ -20,16 +20,7 @@ function Question_8() {
         }
    
 
-        //Please review this question once. 
-
-
-
-    // const idNums = [];
-    // Object.values(obj).map(key => idNums.push({
-    //     key
-       
-    // }));
-    // console.log(idNums);
+        //Please review this question once.
         
     return (
         <div>
