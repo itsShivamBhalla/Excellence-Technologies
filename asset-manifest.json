@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Excellence-Technologies/static/css/main.2592d058.chunk.css",
+    "main.js": "/Excellence-Technologies/static/js/main.d89446e3.chunk.js",
+    "main.js.map": "/Excellence-Technologies/static/js/main.d89446e3.chunk.js.map",
+    "runtime-main.js": "/Excellence-Technologies/static/js/runtime-main.41a01e81.js",
+    "runtime-main.js.map": "/Excellence-Technologies/static/js/runtime-main.41a01e81.js.map",
+    "static/js/2.5a927757.chunk.js": "/Excellence-Technologies/static/js/2.5a927757.chunk.js",
+    "static/js/2.5a927757.chunk.js.map": "/Excellence-Technologies/static/js/2.5a927757.chunk.js.map",
+    "index.html": "/Excellence-Technologies/index.html",
+    "static/css/main.2592d058.chunk.css.map": "/Excellence-Technologies/static/css/main.2592d058.chunk.css.map",
+    "static/js/2.5a927757.chunk.js.LICENSE.txt": "/Excellence-Technologies/static/js/2.5a927757.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41a01e81.js",
+    "static/js/2.5a927757.chunk.js",
+    "static/css/main.2592d058.chunk.css",
+    "static/js/main.d89446e3.chunk.js"
+  ]
+}
